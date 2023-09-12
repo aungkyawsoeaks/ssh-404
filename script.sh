@@ -17,27 +17,27 @@ none='\e[0m'
 
 sed -i 's/#\?AllowTcpForwarding .*/AllowTcpForwarding yes/' /etc/ssh/sshd_config && sed -i 's/#\?PasswordAuthentication .*/PasswordAuthentication yes/' /etc/ssh/sshd_config && sed -i 's/#\?Banner .*/Banner \/etc\/ssh\/gcp_404/' /etc/ssh/sshd_config && /etc/init.d/ssh restart;
 echo "
-<h3><font color='304FFE'>က
+<h3><font color='304FFE'>︵✰𝙎𝙋𝙀𝙀𝘿࿐
 </font></h3>
 
-<h3><font color='00ff00'>ခ
-</font></h3>
-
-
-<h3><font color='green'>ဂ
+<h3><font color='00ff00'>SK ᭄✮GCP-SEVER࿐
 </font></h3>
 
 
-<h4><font color='cyan'>Telegram Channel >> https://t.me/Pmttg
+<h3><font color='green'>✮စေတနာကောင်း ရင် ကံကောင်းမည်၊၊࿐
+</font></h3>
+
+
+<h4><font color='cyan'>Telegram Channel >> ✮စေတနာကောင်း ရင် ကံကောင်းမည်၊၊࿐
 </font></h4>
 
-<h4><font color='blue'>Telegram Channel >> https://t.me/nkka_404
+<h4><font color='blue'>Telegram Channel >> ✮စေတနာကောင်း ရင် ကံကောင်းမည်၊၊࿐
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
-useradd "404" --shell=/bin/false -M
-echo "404:404" | chpasswd
+useradd "007" --shell=/bin/false -M
+echo "007:007" | chpasswd
 
 echo ""
 
@@ -52,4 +52,4 @@ echo -e "${cyan}          \|__|        \|_______|              \|__|            
 echo -e "${green}Contact the developer https://t.me/nkka404 for more information              ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
-echo -e "${cyan}i am 404 😎 ${plain}"
+echo -e "${cyan}i am 007 😎 ${plain}"
